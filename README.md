@@ -1,4 +1,5 @@
-### Hello World 🇧🇷  I'm Wilson Pedrosa Junior
+### Hello World 🇧🇷  
+- I'm Wilson Pedrosa Junior
 
 <!--
 **Wilson08/Wilson08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
