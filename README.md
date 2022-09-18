@@ -37,6 +37,6 @@ Here are some ideas to get you started:
  	<a href="https://www.twitch.tv/wilsonpedrosa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wilson-pedrosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/wilson08/wilson08/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/wilson08/wilson08/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
